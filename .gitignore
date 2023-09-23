@@ -1,0 +1,20 @@
+# Directorios
+node_modules/
+dist/
+coverage/
+build/
+.cache/
+tmp/
+logs/
+.env
+
+# Archivos
+npm-debug.log
+yarn-error.log
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.code-workspace
+.vscode/
+.DS_Store
